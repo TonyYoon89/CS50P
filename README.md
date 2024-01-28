@@ -1,10 +1,7 @@
 # Profit Management System - CS50P Final Project 
-# Name: Hyeonwoong Yoon 
 # GitHub: TonyYoon89
-# edX username: yoon_hw89
 # City: Ann Arbor, MI
 # Date: Jan 28, 2024
-#### Video Demo: https://youtu.be/_sHNvdgXTMA
 #### Description:
 
 [Introduction]
