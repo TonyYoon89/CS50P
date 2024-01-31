@@ -1,11 +1,4 @@
 # Profit Management System - CS50P Final Project 
-# Name: Hyeonwoong Yoon 
-# GitHub: TonyYoon89
-# edX username: yoon_hw89
-# City: Ann Arbor, MI
-# Date: Jan 28, 2024
-#### Video Demo: https://youtu.be/_sHNvdgXTMA
-#### Description:
 
 [Introduction]
 The Profit Management System is a comprehensive financial management tool designed to help businesses and individuals track and analyze their financial data efficiently. Developed in Python and utilizing the powerful Pandas library for data handling, this system offers an intuitive way to manage financial records, including income and expenses, across various product categories and time periods.
